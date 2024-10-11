@@ -7,7 +7,7 @@ Helipad Rush
 Descrição do Jogo
 Durante um apocalipse zumbi, o personagem principal precisa alcançar o topo do prédio de pouso do helicoptero para ser salvo da cidade infectada
 
-Regras
+Regras:
 Nos vários andares do prédio terá desafios e recompensas para ajudar, ou desafiar o protagonista
 
 Como Jogar
